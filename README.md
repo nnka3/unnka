@@ -22,6 +22,6 @@ Your privacy is fully protected because all processing happens entirely on-devic
 
 ## Bugs
 
-App is in beta now, so there could be bugs. Report them as issues. The app is now closed-source, i will make it open-source after it gets published on Play Market by me(nnka;3)
+App is in beta now, so there could be bugs. Report them as issues. The app is now closed-source, i will make it open-source after it gets published on Play Market.
 
 Download on t.me/*change later* or github releases.

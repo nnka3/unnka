@@ -5,7 +5,7 @@ Uunka is an app that brings local AI deployment directly to your phone. It's pow
 
 ## Features
 
-*   **Local LLM Support:** Works with Litert-LM and GGUF files.
+*   **Local LLM Support:** Works with Litert-LM and GGUF files. You can download them from hf.co or add your own files.
 *   **Server Capabilities:** Start a local server for both web interface and OpenAI-compatible chat completions.
 *   **Canvas:** Integrated canvas functionality for both web and mobile.
 *   **Advanced Interaction:** Messaging, editing, swapping models, regenerating responses, branching, and more.

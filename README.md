@@ -1,7 +1,7 @@
 
 # Unnka (Beta)
 
-Unka is an app that brings local AI deployment directly to your phone. It's powered by large language models (LLMs) that run entirely on your device.
+Uunka is an app that brings local AI deployment directly to your phone. It's powered by large language models (LLMs) that run entirely on your device.
 
 ## Features
 

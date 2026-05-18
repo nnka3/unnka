@@ -1,7 +1,7 @@
 
 # Unnka (Beta)
 
-Unnka is an app that brings local AI deployment directly to your phone. It's powered by large language models (LLMs) that run entirely on your device.
+Unnka is the first Android app to combine LiteRT-LM, GGUF, a built-in web UI, canvas, and tool use, and more --- all fully on-device.
 
 ## Features
 

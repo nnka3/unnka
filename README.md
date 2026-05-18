@@ -13,7 +13,6 @@ Unnka is the first Android app to combine LiteRT-LM, GGUF, a built-in web UI, ca
 *   **Look & Feel:** A wide range of app themes, light and dark modes for both web and in-app. Haptic feedback.
 *   **Incognito Mode:** So no chat history gets saved.
 *   **Personalized Greetings:** Auto-loads model on start and generates greetings based on your memories using your "fast" model.
-*   And much more!
 
 ## Privacy First
 

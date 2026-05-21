@@ -1,7 +1,7 @@
 
 # Unnka (Beta)
 
-Unnka is the first Android app to combine LiteRT-LM, GGUF, a built-in web UI, canvas, and tool use, and more --- all fully on-device.
+Unnka is the first Android app to combine LiteRT-LM, GGUF, a built-in web UI, canvas, and tool use, and more - all fully on-device.
 
 ## Features
 

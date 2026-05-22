@@ -3,6 +3,9 @@
 
 Unnka is the first Android app to combine LiteRT-LM, GGUF, a built-in web UI, canvas, and tool use, and more - all fully on-device.
 
+## Disclaimer
+I provide this app AS-IS with NO GUARANTEE, this is work in progress, expect bugs, crashes, model stupidity, lag, etc..
+
 ## Features
 
 *   **Local LLM Support:** Works with Litert-LM and GGUF files. You can download them from hf.co or add your own files.

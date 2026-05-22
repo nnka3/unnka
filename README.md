@@ -18,10 +18,10 @@ Unnka is the first Android app to combine LiteRT-LM, GGUF, a built-in web UI, ca
 
 Your privacy is fully protected because all processing happens entirely on-device. Your conversations, prompts, and data never leave your phone or get stored on external servers.
 
-**A Note on Webpage Security:** The web communication is not encrypted between your phone and browser and is currently vulnerable to MITM attacks. If someone controls your router, or just stands between the phone and other device like PC (where you use webpage), they can see your chat history. This is a known issue and I'm working on it.
+**A Note on Webpage Security:** The web communication is not encrypted between your phone and browser and is currently vulnerable to MITM attacks. If someone controls your router, or just stands between the phone and other device like PC (where you use webpage), they can see your chat history.
 
 ## Bugs
 
 App is in beta now, so there could be bugs. Report them as issues. The app is now closed-source, i will make it open-source after it gets published on Play Market.
 
-Download on https://t.me/unnka3 or github releases.
+Download on https://t.me/unnka or on github releases page.
